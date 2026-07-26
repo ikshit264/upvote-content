@@ -1,0 +1,52 @@
+name: Optimize blog images
+
+# Runs after any push touching a per-post image folder, converts images to
+# WebP, renames them <slug>_<n>.webp, and rewrites the referencing post
+# JSON. Also runnable manually (workflow_dispatch) for an on-demand bulk
+# pass over everything, not just what changed in the triggering push.
+#
+# See scripts/optimize-blog-images.js for the full explanation, including
+# why this can't loop forever:
+#   1. It's idempotent -- a run that finds nothing to convert makes no
+#      commit, so there's no steady-state trigger.
+#   2. Commits pushed with the default GITHUB_TOKEN do not themselves
+#      trigger new workflow runs (GitHub's own anti-recursion guarantee).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "public/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install sharp
+        run: npm install sharp@0.34 --no-save --no-audit --no-fund
+
+      - name: Optimize images
+        run: node scripts/optimize-blog-images.js
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public content/sections
+          if git diff --cached --quiet; then
+            echo "Nothing to optimize."
+          else
+            git commit -m "chore(images): compress to webp + normalize filenames"
+            git push origin main
+          fi

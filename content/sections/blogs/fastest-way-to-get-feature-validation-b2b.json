@@ -1,0 +1,29 @@
+{
+  "title": "The fastest way to get feature validation for your new B2B module",
+  "description": "A tactical guide for PMs who need to know before they build, focusing on the 'Proposed' status in feedback boards.",
+  "image": "/blogs/fastest-way-to-get-feature-validation-b2b/fastest-way-to-get-feature-validation-b2b_1.webp",
+  "date": "2026-03-15",
+  "author": "MonkFeed Team",
+  "category": "How-To Guides",
+  "draft": false,
+  "metadata": {
+    "title": "How to Validate B2B Product Features Before Building",
+    "description": "Stop guessing. Learn the 3-step process to validate new B2B modules using MonkFeed's 'Proposed' feature status.",
+    "keywords": "B2B feature validation, product market fit, validate SaaS ideas, lean product management, MonkFeed widget validation, customer discovery, B2B product strategy, shadow testing features"
+  },
+  "sections": [],
+  "faqs": [
+    {
+      "question": "How can I validate a feature before building it?",
+      "answer": "Use 'Shadow Testing': create a 'Proposed' feature post in your MonkFeed board and see if users are willing to vote and comment on it before writing a single line of code."
+    },
+    {
+      "question": "What is the best way to get feedback in a B2B app?",
+      "answer": "Embed a contextual feedback widget. Showing a 'Vote on this idea' prompt while the user is actually using the relevant part of your software leads to 10x higher validation rates."
+    },
+    {
+      "question": "What metrics show a feature is worth building?",
+      "answer": "Look for a high Vote-to-Comment ratio. If users are taking the time to explain *why* they want a feature, it's a high-impact requirement."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Stop Guessing, Start Building: Introducing Monkfeed, the Feedback Widget That Actually Drives Product Decisions",
+  "description": "Every product manager knows the struggle. You're staring at a roadmap full of 'nice-to-haves,' but you're not 100% sure which feature will actually move the needle.",
+  "image": "/blogs/introducing-monkfeed-feedback-widget/introducing-monkfeed-feedback-widget_1.webp",
+  "date": "2026-05-03",
+  "author": "MonkFeed Team",
+  "category": "Product Launch",
+  "draft": false,
+  "metadata": {
+    "title": "Introducing Monkfeed: The Embeddable Feedback Widget for SaaS",
+    "description": "Stop guessing what features to build. Meet Monkfeed, a lightweight, embeddable customer feedback widget that helps SaaS teams prioritize roadmaps and capture real-time insights.",
+    "keywords": "feedback widget, customer feedback tool, SaaS product management, feature prioritization, product roadmap, embeddable feedback widget, user feedback software, Monkfeed launch, SaaS growth"
+  },
+  "sections": [],
+  "faqs": [
+    {
+      "question": "Does it work on mobile apps?",
+      "answer": "Yes! Monkfeed is designed for both SaaS platforms and mobile apps, ensuring a seamless experience across all devices."
+    },
+    {
+      "question": "Can I customize the look and feel?",
+      "answer": "Absolutely. You can match your brand's colors, fonts, and styles to ensure the widget feels like a native part of your product."
+    },
+    {
+      "question": "Is there a free plan?",
+      "answer": "Yes, our Hobby Plan is free forever and perfect for side projects and personal sites."
+    },
+    {
+      "question": "How do you handle spam?",
+      "answer": "We have built-in moderation tools and filtering to keep your feedback submissions clean, useful, and high-quality."
+    }
+  ]
+}

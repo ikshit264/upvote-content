@@ -1,0 +1,29 @@
+{
+  "title": "10 Must-have Chrome extensions for B2B Product Managers",
+  "description": "A high-shareability listicle that builds authority and includes MonkFeedâ€™s extension alongside industry giants.",
+  "image": "/blogs/10-must-have-chrome-extensions-b2b-pms/10-must-have-chrome-extensions-b2b-pms_1.webp",
+  "date": "2026-03-08",
+  "author": "MonkFeed Team",
+  "category": "Best Tools",
+  "draft": false,
+  "metadata": {
+    "title": "Best Chrome Extensions for SaaS Product Managers in 2026",
+    "description": "Boost your productivity with these 10 essential Chrome extensions for B2B product managers, featuring Loom, MonkFeed, and more.",
+    "keywords": "best Chrome extensions for PMs, product management productivity, SaaS tools, MonkFeed Chrome extension, Loom for PM, Grammarly for business, FullStory extension, PM workflow hacks"
+  },
+  "sections": [],
+  "faqs": [
+    {
+      "question": "What are the essential Chrome extensions for product managers in 2026?",
+      "answer": "The 'SaaS Stack' includes Loom (video), Grammarly (writing), MonkFeed (feedback), and FullStory (research). These tools collectively save PMs hours of manual work."
+    },
+    {
+      "question": "How does the MonkFeed Chrome extension help PMs?",
+      "answer": "It allows PMs to capture customer feedback instantly from Slack, LinkedIn, or their own app without switching tabs, ensuring no insights are lost."
+    },
+    {
+      "question": "Are there extensions to help with B2B competitor research?",
+      "answer": "Yes, tools like Meta SEO Inspector and Wappalyzer help PMs understand the tech stack and SEO strategies of their competitors directly from the browser."
+    }
+  ]
+}

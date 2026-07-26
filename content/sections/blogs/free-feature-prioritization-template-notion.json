@@ -1,0 +1,29 @@
+{
+  "title": "Download our free Feature Prioritization Template for Notion",
+  "description": "A lead magnet post that provides a Notion template while showing why dedicated software is the logical next step.",
+  "image": "/blogs/free-feature-prioritization-template-notion/free-feature-prioritization-template-notion_1.webp",
+  "date": "2026-03-29",
+  "author": "MonkFeed Team",
+  "category": "Resources",
+  "draft": false,
+  "metadata": {
+    "title": "Free Notion Template for Feature Prioritization (RICE Framework)",
+    "description": "Download our professional Notion template to organize your product backlog using the RICE scoring system.",
+    "keywords": "Notion template for PM, RICE scoring framework, feature prioritization template, product backlog management, free Notion resources, product strategy tools, SaaS priorities, PM roadmap template"
+  },
+  "sections": [],
+  "faqs": [
+    {
+      "question": "How do I prioritize my product roadmap in Notion?",
+      "answer": "The most effective way is using the RICE framework (Reach, Impact, Confidence, Effort). Our free template includes pre-built formulas to calculate these scores automatically."
+    },
+    {
+      "question": "What are the benefits of using a RICE template?",
+      "answer": "It removes emotional bias from product decisions, helps you justify your roadmap to stakeholders with data, and ensures engineers are working on high-value tasks."
+    },
+    {
+      "question": "When should I move from a Notion template to MonkFeed?",
+      "answer": "Templates break when you have too much data or want direct user input. When you need users to vote on features live, it's time to upgrade to a dedicated tool like MonkFeed."
+    }
+  ]
+}

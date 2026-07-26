@@ -1,0 +1,48 @@
+name: Regenerate content indexes
+
+# Runs after any push touching content/sections/**, regenerates index.json
+# at every folder level (recursive -- matches the CMS's Drive-style
+# nesting), and commits back only if something actually changed.
+#
+# Loop-safety, same reasoning as upvote's optimize-blog-images.js workflow:
+#   1. generate-indexes.js is idempotent -- it only rewrites a folder's
+#      index.json if its folders/posts actually differ from what's already
+#      there (verified: a second run with no content changes makes zero
+#      writes), so there's no steady-state trigger.
+#   2. Commits pushed with the default GITHUB_TOKEN don't themselves
+#      trigger new workflow runs (GitHub's own anti-recursion guarantee).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/sections/**"
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Regenerate indexes
+        run: node scripts/generate-indexes.js
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "content/sections/**/index.json"
+          if git diff --cached --quiet; then
+            echo "No index changes."
+          else
+            git commit -m "chore(index): regenerate folder indexes"
+            git push origin main
+          fi

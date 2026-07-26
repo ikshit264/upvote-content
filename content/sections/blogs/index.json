@@ -1,0 +1,216 @@
+{
+  "path": "blogs",
+  "generatedAt": "2026-07-26T10:58:18.790Z",
+  "folders": [],
+  "posts": [
+    {
+      "slug": "turn-voting-data-into-interview-gold",
+      "title": "How to Use MonkFeed to Turn Voting Data Into Interview Gold: A Tactical Guide",
+      "description": "You have 150 votes for a feature and only 5 comments. That's your signal to interview, not to guess. Here's the exact MonkFeed workflow for finding interview candidates, asking the right questions, and tagging insights back into your roadmap.",
+      "image": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_1.webp",
+      "imageAlt": "A diamond formed from voting data on one side and user interview conversations on the other, connecting to a flagged mountain peak goal",
+      "date": "2026-07-19",
+      "author": "MonkFeed Team",
+      "category": "How-To Guides"
+    },
+    {
+      "slug": "how-to-measure-feature-adoption-post-launch",
+      "title": "The Feedback Loop Doesn't End at Launch: How to Measure Feature Adoption",
+      "description": "Shipping a feature isn't the finish line. A practical playbook for measuring real feature adoption after launch, closing the loop with the users who asked for it, and turning sentiment into your next roadmap decision.",
+      "image": "/blogs/how-to-measure-feature-adoption-post-launch/how-to-measure-feature-adoption-post-launch_1.webp",
+      "imageAlt": "Rocket launching from a planet inside a circular cycle diagram with icons for users, feedback search, validation checkmark, and growth, orbiting a central MonkFeed logo",
+      "date": "2026-07-12",
+      "author": "MonkFeed Team",
+      "category": "How-To Guides"
+    },
+    {
+      "slug": "solo-founder-toolkit-automate-product-discovery",
+      "title": "The Solo Founder's Toolkit: Automating Product Discovery with One Person and No Budget",
+      "description": "Replace a $300+/month product tools stack with one free, automated feedback loop. A practical playbook for solo founders who need to validate ideas fast without a team or a budget.",
+      "image": "/blogs/solo-founder-toolkit-automate-product-discovery/solo-founder-toolkit-automate-product-discovery_1.webp",
+      "imageAlt": "Illustration of a solo founder with four arms juggling customer support, code, a kanban board, analytics, and marketing at a laptop",
+      "date": "2026-07-05",
+      "author": "MonkFeed Team",
+      "category": "How-To Guides"
+    },
+    {
+      "slug": "quantitative-vs-qualitative-feedback-data",
+      "title": "Quantitative vs. Qualitative: How to Combine Voting Data with User Interviews",
+      "description": "Voting data tells you what users want. User interviews tell you why. Here's how to combine both to stop guessing and start building the features your customers actually need.",
+      "image": "/blogs/quantitative-vs-qualitative-feedback-data/quantitative-vs-qualitative-feedback-data_1.webp",
+      "imageAlt": "Split illustration comparing a quantitative analytics dashboard on the left with qualitative user interview avatars and chat bubbles on the right, connected by a comparison toggle",
+      "date": "2026-06-28",
+      "author": "MonkFeed Team",
+      "category": "How-To Guides"
+    },
+    {
+      "slug": "5-red-flags-product-feedback-tool-slowing-you-down",
+      "title": "5 Red Flags Your Product Feedback Tool Is Slowing You Down",
+      "description": "Many product teams unknowingly bottleneck their own growth by sticking with feedback tools that were 'good enough' at launch but now actively hinder agility. Here are the 5 red flags your current solution is holding you back.",
+      "image": "/blogs/5-red-flags-product-feedback-tool-slowing-you-down/5-red-flags-product-feedback-tool-slowing-you-down_1.webp",
+      "imageAlt": "MonkFeed product overview showing collect, prioritize, and ship feedback workflow",
+      "date": "2026-06-21",
+      "author": "MonkFeed Team",
+      "category": "Product Strategy"
+    },
+    {
+      "slug": "cost-of-ignoring-customer-feedback",
+      "title": "The Cost of Ignoring Customer Feedback: A Data-Driven Analysis",
+      "description": "Ignoring customer feedback isn't just a missed opportunity — it's a direct path to revenue erosion, engineering waste, and accelerated churn. Here's exactly what it costs and how to reverse the trend.",
+      "image": "/blogs/cost-of-ignoring-customer-feedback/cost-of-ignoring-customer-feedback_1.webp",
+      "imageAlt": "Before and after comparison showing declining metrics with storm clouds transforming to rising metrics with sunshine",
+      "date": "2026-06-14",
+      "author": "MonkFeed Team",
+      "category": "ROI"
+    },
+    {
+      "slug": "feedback-fatigue-customer-advisory-board",
+      "title": "Feedback Fatigue: Why Your Customer Advisory Board Isn't Working (And How to Fix It)",
+      "description": "Feedback fatigue is real — it happens when the gap between asking for input and acting on it becomes too wide. Here's why your CAB is failing and how embedded feedback loops can scale your strategy without burning out your customers.",
+      "image": "/blogs/feedback-fatigue-customer-advisory-board/feedback-fatigue-customer-advisory-board_1.webp",
+      "imageAlt": "Product manager overwhelmed at their desk with feedback messages piling up, symbolizing feedback fatigue from a broken Customer Advisory Board model",
+      "date": "2026-06-07",
+      "author": "MonkFeed Team",
+      "category": "Product Strategy"
+    },
+    {
+      "slug": "feature-requests-vs-feature-needs",
+      "title": "Feature Requests vs. Feature Needs: Why Your Customers Don't Always Know What They Want",
+      "description": "Users are great at pointing out problems but terrible at designing solutions. Here's how to distinguish a loud feature request from a silent feature need — and why it's the single most critical skill in product strategy.",
+      "image": "/blogs/feature-requests-vs-feature-needs/feature-requests-vs-feature-needs_1.webp",
+      "imageAlt": "Scales weighing user wants and needs against product features, representing the balance between requests and real needs",
+      "date": "2026-05-31",
+      "author": "MonkFeed Team",
+      "category": "Product Strategy"
+    },
+    {
+      "slug": "how-to-build-product-roadmap-customers-want",
+      "title": "How to Build a Product Roadmap Your Customers Actually Want",
+      "description": "Most roadmaps look great internally but miss the mark with users. Learn how modern product teams are moving from 'build and hope' to 'listen and validate' — and how to co-create a roadmap your customers actually care about.",
+      "image": "/blogs/how-to-build-product-roadmap-customers-want/how-to-build-product-roadmap-customers-want_1.webp",
+      "imageAlt": "MonkFeed feedback loop diagram showing the cycle of collect, analyze, validate, and communicate for product roadmap building",
+      "date": "2026-05-24",
+      "author": "MonkFeed Team",
+      "category": "Product Strategy"
+    },
+    {
+      "slug": "how-to-improve-customer-experience-saas",
+      "title": "How to Improve Customer Experience: A SaaS Guide to Turning Feedback into Growth",
+      "description": "Improving customer experience isn't about guessing—it's about listening to your users and acting faster than your competition. Learn how embedded feedback widgets turn passive users into active co-creators.",
+      "image": "/blogs/how-to-improve-customer-experience-saas/how-to-improve-customer-experience-saas_1.webp",
+      "imageAlt": "MonkFeed feedback widget showing feature requests, upvotes, and discussion threads embedded in a SaaS product",
+      "date": "2026-05-17",
+      "author": "MonkFeed Team",
+      "category": "Customer Experience"
+    },
+    {
+      "slug": "how-feedback-widgets-boost-response-rates",
+      "title": "How Does the Feedback Widget Boost Response Rates?",
+      "description": "Feedback widgets capture insights while users are actively engaged, dramatically out-performing email surveys. Here's exactly why response rates climb when feedback lives inside your product.",
+      "image": "/blogs/how-feedback-widgets-boost-response-rates/how-feedback-widgets-boost-response-rates_1.webp",
+      "imageAlt": "Illustration showing rising response rates from an in-app feedback widget compared to traditional email surveys",
+      "date": "2026-05-10",
+      "author": "MonkFeed Team",
+      "category": "Customer Feedback"
+    },
+    {
+      "slug": "introducing-monkfeed-feedback-widget",
+      "title": "Stop Guessing, Start Building: Introducing Monkfeed, the Feedback Widget That Actually Drives Product Decisions",
+      "description": "Every product manager knows the struggle. You're staring at a roadmap full of 'nice-to-haves,' but you're not 100% sure which feature will actually move the needle.",
+      "image": "/blogs/introducing-monkfeed-feedback-widget/introducing-monkfeed-feedback-widget_1.webp",
+      "date": "2026-05-03",
+      "author": "MonkFeed Team",
+      "category": "Product Launch"
+    },
+    {
+      "slug": "why-canny-is-too-expensive-for-small-b2b-teams-2026",
+      "title": "Why Canny is too expensive for small B2B teams in 2026",
+      "description": "A direct, value-driven comparison of pricing structures. This post highlights how Cannyâ€™s 'startup' pricing often scales faster than a small team's revenue.",
+      "image": "/blogs/why-canny-is-too-expensive-for-small-b2b-teams-2026/why-canny-is-too-expensive-for-small-b2b-teams-2026_1.webp",
+      "date": "2026-04-26",
+      "author": "MonkFeed Team",
+      "category": "Vs. The Giants"
+    },
+    {
+      "slug": "5-best-feature-upvoting-alternatives-to-aha-ideas",
+      "title": "5 Best Feature Upvoting alternatives to Aha! Ideas",
+      "description": "Targeting the 'Enterprise Fatigue' crowd. Aha! is powerful but often overkill. Positioning MonkFeed as the lean, agile alternative.",
+      "image": "/blogs/5-best-feature-upvoting-alternatives-to-aha-ideas/5-best-feature-upvoting-alternatives-to-aha-ideas_1.webp",
+      "date": "2026-04-19",
+      "author": "MonkFeed Team",
+      "category": "Best Tools"
+    },
+    {
+      "slug": "how-to-automate-your-product-roadmap-no-code",
+      "title": "How to automate your product roadmap without writing a single line of code",
+      "description": "A high-utility 'How-To' focusing on the 'set it and forget it' nature of MonkFeedâ€™s automation rules.",
+      "image": "/blogs/how-to-automate-your-product-roadmap-no-code/how-to-automate-your-product-roadmap-no-code_1.webp",
+      "date": "2026-04-12",
+      "author": "MonkFeed Team",
+      "category": "How-To Guides"
+    },
+    {
+      "slug": "7-best-free-tools-for-anonymous-customer-feedback",
+      "title": "7 Best free tools for anonymous customer feedback you haven't heard of",
+      "description": "Capture top-of-funnel traffic looking for low-friction feedback solutions, featuring MonkFeed's free tier.",
+      "image": "/blogs/7-best-free-tools-for-anonymous-customer-feedback/7-best-free-tools-for-anonymous-customer-feedback_1.webp",
+      "date": "2026-04-05",
+      "author": "MonkFeed Team",
+      "category": "Best Tools"
+    },
+    {
+      "slug": "free-feature-prioritization-template-notion",
+      "title": "Download our free Feature Prioritization Template for Notion",
+      "description": "A lead magnet post that provides a Notion template while showing why dedicated software is the logical next step.",
+      "image": "/blogs/free-feature-prioritization-template-notion/free-feature-prioritization-template-notion_1.webp",
+      "date": "2026-03-29",
+      "author": "MonkFeed Team",
+      "category": "Resources"
+    },
+    {
+      "slug": "how-to-calculate-roi-customer-feedback-software",
+      "title": "How to calculate the ROI of your Customer Feedback software",
+      "description": "The 'Closer' piece providing the math needed to justify the purchase to a CFO, focusing on engineering hours and churn reduction.",
+      "image": "/blogs/how-to-calculate-roi-customer-feedback-software/how-to-calculate-roi-customer-feedback-software_1.webp",
+      "date": "2026-03-22",
+      "author": "MonkFeed Team",
+      "category": "How-To Guides"
+    },
+    {
+      "slug": "fastest-way-to-get-feature-validation-b2b",
+      "title": "The fastest way to get feature validation for your new B2B module",
+      "description": "A tactical guide for PMs who need to know before they build, focusing on the 'Proposed' status in feedback boards.",
+      "image": "/blogs/fastest-way-to-get-feature-validation-b2b/fastest-way-to-get-feature-validation-b2b_1.webp",
+      "date": "2026-03-15",
+      "author": "MonkFeed Team",
+      "category": "How-To Guides"
+    },
+    {
+      "slug": "10-must-have-chrome-extensions-b2b-pms",
+      "title": "10 Must-have Chrome extensions for B2B Product Managers",
+      "description": "A high-shareability listicle that builds authority and includes MonkFeedâ€™s extension alongside industry giants.",
+      "image": "/blogs/10-must-have-chrome-extensions-b2b-pms/10-must-have-chrome-extensions-b2b-pms_1.webp",
+      "date": "2026-03-08",
+      "author": "MonkFeed Team",
+      "category": "Best Tools"
+    },
+    {
+      "slug": "cut-churn-rate-50-percent-user-voting",
+      "title": "How to cut your Churn Rate by 50% this quarter using user voting",
+      "description": "A high-stakes 'ROI' blog that addresses the #1 pain point of SaaS: Churn.",
+      "image": "/blogs/cut-churn-rate-50-percent-user-voting/cut-churn-rate-50-percent-user-voting_1.webp",
+      "date": "2026-03-01",
+      "author": "MonkFeed Team",
+      "category": "ROI"
+    },
+    {
+      "slug": "productboard-vs-monkfeed-early-stage-b2b-saas",
+      "title": "Productboard vs. MonkFeed: Which is better for early-stage B2B SaaS?",
+      "description": "A classic comparison piece. Productboard is for massive teams; MonkFeed is for the fast-movers.",
+      "image": "/blogs/productboard-vs-monkfeed-early-stage-b2b-saas/productboard-vs-monkfeed-early-stage-b2b-saas_1.webp",
+      "date": "2026-02-22",
+      "author": "MonkFeed Team",
+      "category": "Vs. The Giants"
+    }
+  ]
+}

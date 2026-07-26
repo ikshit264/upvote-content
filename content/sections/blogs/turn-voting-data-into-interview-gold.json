@@ -1,0 +1,215 @@
+{
+  "slug": "turn-voting-data-into-interview-gold",
+  "title": "How to Use MonkFeed to Turn Voting Data Into Interview Gold: A Tactical Guide",
+  "description": "You have 150 votes for a feature and only 5 comments. That's your signal to interview, not to guess. Here's the exact MonkFeed workflow for finding interview candidates, asking the right questions, and tagging insights back into your roadmap.",
+  "image": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_1.webp",
+  "imageAlt": "A diamond formed from voting data on one side and user interview conversations on the other, connecting to a flagged mountain peak goal",
+  "date": "2026-07-19",
+  "author": "MonkFeed Team",
+  "category": "How-To Guides",
+  "metadata": {
+    "title": "Turn Voting Data Into Interview Gold: A Tactical Guide | MonkFeed",
+    "description": "Learn how to use MonkFeed to spot high-vote, low-comment signals, target the right users for interviews, ask sharper questions, and tag insights back into your roadmap.",
+    "keywords": "voting data, user interviews, feedback prioritization, product discovery, interview questions, MonkFeed, feature requests, root cause analysis, five whys, customer interviews"
+  },
+  "faqs": [
+    {
+      "question": "How many users should I interview from a high-vote, low-comment item?",
+      "answer": "Start with 3–5. You'll often see patterns emerge after 3 interviews. If you're seeing new insights after 5 interviews, do 2–3 more. Diminishing returns typically kick in after 8–10 interviews on the same topic."
+    },
+    {
+      "question": "What if all my feedback items have high comments? Does that mean I don't need interviews?",
+      "answer": "Not necessarily. High comments are great for understanding the \"why,\" but interviews still add value because users often explain things differently in conversation than in written feedback. Use interviews to validate assumptions from comments."
+    },
+    {
+      "question": "Should I interview users who voted against a feature?",
+      "answer": "Yes, occasionally. If a feature has 100 votes but also has 10 \"downvotes,\" interview a few users who downvoted. They might reveal a critical flaw in your approach."
+    },
+    {
+      "question": "How do I handle users who can't articulate their needs clearly?",
+      "answer": "Use the Five Whys technique and ask them to describe a specific moment when they faced the problem. Concrete stories are easier to articulate than abstract needs."
+    },
+    {
+      "question": "Can I use this workflow for features that have already launched?",
+      "answer": "Absolutely. Interview users about adoption. Ask: \"You voted for this feature. Are you using it now? Why or why not?\" This gives you critical feedback for the next iteration."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "content": "You have 150 votes for \"Real-time Collaboration.\" You have 5 comments.\n\nThis is your signal to interview, but most product teams miss it.\n\nInstead, they either build based on the votes alone (and guess wrong), or they skip the interviews entirely and wonder why adoption is low. The opportunity cost is massive: wasted engineering time, frustrated users, and a roadmap full of features nobody actually wanted.\n\nBut there's a better way.\n\nIn this guide, we'll show you exactly how to use MonkFeed to identify which feedback items deserve deep-dive interviews, craft laser-focused interview questions based on voting patterns, and tag the insights you uncover so they actually influence your roadmap.\n\nThis is the workflow that separates product teams that build with confidence from those that build with hope.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_2.webp",
+          "alt": "Circular diagram showing a feedback loop of a user commenting, the team reviewing analytics, a notification being sent, and another user responding happily",
+          "caption": "The workflow this guide covers: from raw votes, to targeted interviews, to a roadmap voters actually recognize.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "The \"High Vote, Low Comment\" Signal: Your Interview Goldmine",
+      "content": "Before you schedule a single interview, you need to know who to talk to and what to ask.\n\nMonkFeed makes this easy by highlighting a specific data pattern that signals high-priority, low-clarity requests: **High Votes + Low Comments**.\n\n**Why This Pattern Matters**\n\nWhen a feature request has high votes but few comments, users are saying two things simultaneously:\n\n- \"I want this\" (the votes)\n- \"But I haven't explained why or how\" (the silence)\n\nThis is the exact moment to interview. Users care enough to vote, but they haven't articulated their needs. Your job is to ask the questions that unlock that clarity.\n\n**The Alternative Patterns (and Why They're Different):**\n\n- **High Votes + High Comments** — Clear need, well-articulated. Interview priority: Low. *Build it. Users have already explained it.*\n- **High Votes + Low Comments** — Strong signal, unclear why. Interview priority: **HIGH**. *Interview immediately. This is gold.*\n- **Low Votes + High Comments** — Vocal minority. Interview priority: Medium. *Interview to validate if this is niche or signal.*\n- **Low Votes + Low Comments** — Noise. Interview priority: None. *Ignore (for now).*",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_3.webp",
+          "alt": "Bar chart of declining vote counts with a magnifying glass zooming in on one specific feedback card, connecting to two people in conversation",
+          "caption": "High votes, thin comment trail — that gap is exactly where an interview pays off.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "Step 1: Finding Your Interview Candidates in MonkFeed",
+      "content": "Don't waste time interviewing random users. Use data to target the right people.\n\n**How to Identify High Vote, Low Comment Items**\n\nIn MonkFeed:\n\n1. Open your feedback board.\n2. Sort by **Votes (High to Low)**.\n3. Scan for items with:\n   - Vote count: 50+ (or whatever threshold makes sense for your user base)\n   - Comments: 0–3 (the key signal)\n4. Flag these items as \"Interview Candidates.\"\n\n**Pro Tip:** Create a custom tag in MonkFeed called `#Interview-Candidate` to mark these items. This makes them easy to track and reference later.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_4.webp",
+          "alt": "A funnel taking a large stack of upvoted feedback cards and filtering them down to three highlighted cards, each linked to a specific user",
+          "caption": "Filter the whole board down to the handful of items that actually deserve a conversation.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "Segment by User Tier (The Revenue Angle)",
+      "content": "Not all votes are created equal. A vote from an Enterprise customer is worth more than a vote from a Free tier user.\n\nIn MonkFeed:\n\n1. Filter your board by **User Tier** (if you've tagged users with their plan level).\n2. Look for high-vote, low-comment items from your highest-value segments (Enterprise, Pro, etc.).\n3. Prioritize interviews with these users first. Their feedback directly impacts revenue retention.\n\n**Example:** You see \"Advanced Permissions\" has 40 votes, 2 comments. You filter and see 8 of those votes came from Enterprise customers. Interview those 8 first. Their needs will shape your roadmap more than 32 votes from Free tier users.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_5.webp",
+          "alt": "Pyramid of user avatars segmented into tiers, narrowing up to a crowned VIP group on a podium connected to a dollar sign",
+          "caption": "A vote isn't just a vote — weight it by who's actually asking.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "Look for \"Stalled\" Features",
+      "content": "Some features have been accumulating votes for months but haven't moved to \"In Progress\" or \"Launched.\" These are prime interview candidates.\n\nWhy? Users keep voting because the problem persists. They're signaling: \"This is still critical.\"\n\nIn MonkFeed:\n\n1. Filter by Status: **Proposed** (features that haven't been prioritized).\n2. Sort by **Last Vote Date** (most recent first).\n3. Look for items with steady vote growth over 3+ months.\n\n**Question to ask in the interview:** \"I see you've been voting for X for months. What's changed in your workflow since you first voted? Is this still as critical?\"",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_6.webp",
+          "alt": "Timeline of starred feature cards steadily gaining votes over time, leading toward a road with a barrier and a person thinking with a clock nearby",
+          "caption": "Votes that keep climbing on a stalled request are users telling you the pain hasn't gone away.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "Step 2: Crafting Interview Questions Based on Voting Patterns",
+      "content": "Once you've identified your candidates, don't walk into the interview unprepared. Use their voting history to script your questions.\n\nThis approach accomplishes two things:\n\n1. **Shows you're listening.** Users feel heard when you reference their specific activity.\n2. **Cuts through the noise immediately.** You get to the real problem in the first 5 minutes instead of 20.\n\n**The \"Contextual\" Question Framework**\n\nInstead of asking generic questions, reference the user's voting history.\n\nBad Question: *\"What features would you like to see?\"*\n\nGood Question (Using MonkFeed Data): *\"I noticed you voted for 'Export to CSV' three times in the last month, but you haven't left a comment. Can you walk me through the last time you needed to export data? What did you have to do instead?\"*\n\nWhy this works: You're not asking them to remember a vague request. You're asking them to describe a specific, recent moment of pain. This triggers concrete details instead of abstract wishes.\n\n**The \"Hypothetical\" Approach**\n\nUse the voting data to test your assumptions about the solution.\n\nExample: *\"We see a lot of requests for 'Mobile App'. If we built a mobile version today, what is the ONE thing you'd do on it that you can't do on the desktop right now?\"*\n\nWhy this works: You're not asking \"Do you want a mobile app?\" (Yes/No trap). You're asking them to prioritize. This reveals whether it's a genuine need or a \"nice-to-have.\"",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_7.webp",
+          "alt": "A list of upvoted feedback items connected through question marks to a thought bubble containing a calendar, a frustrated user at a laptop with a clock, and a document workflow diagram",
+          "caption": "Every vote has a specific moment of pain behind it — your questions should go straight for that moment.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "The \"Five Whys\" Technique (The Root Cause Excavator)",
+      "content": "When a user explains a problem, keep asking \"Why?\" to dig to the root cause.\n\n**Example:**\n\n- User: \"I need a Dark Mode.\"\n- You: \"Why is that important for you?\"\n- User: \"My eyes get tired at night.\"\n- You: \"Why does that happen specifically with our app?\"\n- User: \"Because the contrast is too bright compared to my other tools.\"\n\n**Insight:** The user doesn't want \"Dark Mode\"; they want better contrast management. You might solve this with a \"Dim Mode\" or \"High Contrast\" toggle instead of a full UI overhaul.\n\nWhy this works: You've moved from the surface-level request (\"Dark Mode\") to the underlying need (\"contrast management\"). This changes how you build and saves engineering time.\n\n**The \"Validation\" Question**\n\nUse high-vote items to validate your assumptions about market size.\n\nExample: *\"I see 150 people voted for 'Real-time Collaboration'. In your workflow, how many people on your team would actually use this?\"*\n\nWhy this works: You're testing whether the 150 votes represent 150 people who need it, or 20 people voting multiple times, or a feature that only works for a subset of those users.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_8.webp",
+          "alt": "Concentric rings each marked with a question mark, narrowing down toward a single glowing lightbulb at the center",
+          "caption": "\"Dark Mode\" was never the real request — five whys got to what actually was.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "Step 3: Recording and Tagging Qualitative Insights Back to MonkFeed",
+      "content": "You've done the interview. You have a recording, a transcript, and a list of insights. Now comes the critical step that most teams skip: making sure this data actually influences your roadmap.\n\nWithout a system to tag and link qualitative insights back to your feedback board, your interview data gets lost in a folder somewhere. Six months later, you've forgotten the key insights and you're making the same decisions based on guesses.\n\nThis is where MonkFeed becomes your single source of truth.\n\n**Step 3A: Create Custom Tags for Qualitative Insights**\n\nIn MonkFeed, create custom tags that categorize the types of insights you're finding in interviews.\n\nRecommended Tags:\n\n- `#Interview-Insight` — General marker that this item has been validated through interviews\n- `#UX-Issue` — Users struggle to find/understand the feature\n- `#Bug` — Broken functionality revealed in interviews\n- `#Missing-Workflow` — Feature solves part of the problem, not all\n- `#Adoption-Success` — Users love this; high adoption potential\n- `#Niche-Need` — Only a small segment needs this\n- `#Blocker` — This is preventing users from achieving their goal\n\n**How to Use:** When you discover a pattern in interviews, apply the relevant tag to the MonkFeed item.\n\nExample: You interview 3 users who voted for \"Export to CSV.\" All 3 mention they use the export for monthly reporting. You tag the item with `#Blocker` because without it, they're manually copying data, which takes 4 hours.\n\n**Step 3B: Link the Interview to the Request**\n\nIn the Comments section of the relevant MonkFeed card, paste a link to the interview recording or a summary of the key quote.\n\nExample Comment:\n\n> Interview with Enterprise User (Sarah M.) - June 24, 2026\n> Key Quote: \"Without CSV export, I have to manually copy-paste data every month. It takes 4 hours and I'm terrified I'll miss something.\"\n> Insight: This isn't a \"nice-to-have.\" It's a blocker for monthly reporting workflows in Enterprise accounts.\n> Priority: HIGH - Revenue Impact: High churn risk if not solved.\n\nWhy this works: The next time someone on your team looks at this card, they see the exact evidence for why it matters. No guessing. No \"I think users want this.\" Just facts.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_9.webp",
+          "alt": "A central database hub connected to six feedback cards, each tagged and linked to a person in conversation, with a row of tag icons below",
+          "caption": "Interview insights only compound if they're tagged and linked back to the exact request that prompted them.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "Step 3C: Update the Status Based on Insights",
+      "content": "Use your interview data to move the request through your workflow statuses.\n\n**How to decide:**\n\n- Interview reveals a critical blocker? Move to **In Progress** or **Validated**. This is a priority.\n- Interview reveals the request is a misunderstanding? Move to **Under Review** and add a comment explaining the nuance.\n- Interview reveals it's niche? Tag with `#Niche-Need` and keep it **Proposed** for now.\n- Interview reveals it's already solved by a workaround? Move to **Closed** with an explanation.\n\n**Example:**\n\n> Status Changed: Proposed → Validated\n> Reason: Interviewed 3 Enterprise users who voted for this feature.\n> All 3 confirmed it's blocking their monthly reporting workflow.\n> Without CSV export, they spend 4 hours manually copying data.\n> Next Step: Prioritize for Q3 development.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_10.webp",
+          "alt": "A team reviewing a table of feedback items, selecting and highlighting one specific row while editing its details on a connected profile card",
+          "caption": "Turning an interview into a status change your whole team can see and trust.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "Step 3D: Notify the Voters (The Trust Builder)",
+      "content": "This is the secret weapon for retention and advocacy.\n\nWhen you update the status of a request based on interview insights, MonkFeed automatically notifies the voters.\n\n**Auto-Notification Example:**\n\n> Subject: Your feedback led to action\n>\n> Hi there,\n>\n> Thanks to your vote and feedback, we're moving \"Export to CSV\" to our development queue. We spoke to several Enterprise users (including you!) who shared critical details about their reporting needs.\n>\n> We're prioritizing this for Q3 launch.\n>\n> — The [Product] Team\n\n**Why this matters:**\n\n- **Retention:** Users feel heard and are less likely to churn.\n- **Advocacy:** Users who see their ideas become reality become your biggest cheerleaders on social media.\n- **Trust:** You're not just collecting feedback; you're acting on it.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_11.webp",
+          "alt": "A cycle showing a user's comment being reviewed by a team, triggering a notification, and looping back to a happy user responding",
+          "caption": "Closing the loop is what turns a voter into an advocate.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "The Complete Workflow: From Votes to Action",
+      "content": "Here's how the entire process looks in practice:\n\n**Week 1: Identify**\n\n- Monday: Sort your MonkFeed board by Votes (High to Low).\n- Tuesday: Identify 5–10 items with High Votes + Low Comments.\n- Wednesday: Tag them with `#Interview-Candidate` and filter by Enterprise users.\n- Thursday: Reach out to those users and schedule interviews.\n\n**Week 2: Interview**\n\n- Monday–Wednesday: Conduct 5 user interviews (30–45 minutes each).\n- Thursday: Review recordings and extract key insights.\n- Friday: Synthesize findings and identify patterns.\n\n**Week 3: Tag and Update**\n\n- Monday: Add tags to each MonkFeed item based on interview insights.\n- Tuesday: Paste key quotes and recording links into the Comments section.\n- Wednesday: Update statuses based on what you learned.\n- Thursday: MonkFeed sends auto-notifications to voters.\n- Friday: Celebrate with your team. You've turned votes into validated priorities.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_12.webp",
+          "alt": "Eight-step circular workflow from voting through interviews, insights, tagging, and launch, connecting to a scene of a team celebrating growth with a trophy",
+          "caption": "Three weeks, one repeatable loop — from raw votes to a roadmap decision people actually celebrate.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "Real-World Example: The \"Contextual Annotation\" Story",
+      "content": "Let's walk through a complete example to show how this workflow works.\n\n**The Starting Point**\n\nYou notice \"Real-time Collaboration\" has 150 votes but only 5 comments. You tag it `#Interview-Candidate`.\n\n**The Interview**\n\nYou reach out to 5 users who voted for this feature. In the first interview, you ask: *\"I noticed you voted for 'Real-time Collaboration'. Can you describe the last time you needed to collaborate with a teammate? What were you trying to do?\"*\n\nUser Response: \"We were reviewing sales data, and I wanted to point out a specific row that looked wrong. I had to send a Slack message saying 'Look at row 47, column C.' It was confusing and error-prone.\"\n\nYou ask the Five Whys:\n\n- You: \"Why was it confusing?\"\n- User: \"Because they had to navigate to row 47 themselves and might miss it.\"\n- You: \"What would solve this?\"\n- User: \"The ability to comment directly on that specific row, without breaking the view or sending them to a different page.\"\n\n**Insight:** They don't want \"Chat\" or \"Co-editing.\" They want \"Row-Level Comments.\"",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_13.webp",
+          "alt": "A person weighing three possible solutions, selecting the correct one which is then validated by a happy user with a thumbs up",
+          "caption": "150 votes for \"Real-time Collaboration\" turned out to mean one very specific thing: row-level comments.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "The Tagging, Status Update, and Notification",
+      "content": "You update the MonkFeed card:\n\n- **Title:** Changed from \"Real-time Collaboration\" to \"Contextual Annotation: Row-Level Comments\"\n- **Tags:** `#Interview-Insight`, `#Blocker`, `#High-Value`\n- **Comment:**\n\n> Interview with Sales Manager (John D.) - June 24, 2026\n> Key Quote: \"I need to comment on specific rows without breaking the view. Right now I send Slack messages, which is error-prone.\"\n> Insight: This isn't generic collaboration. It's contextual annotation on specific data points.\n> Recommendation: Build \"Row-Level Comments\" instead of generic chat.\n\n**The Status Update**\n\nStatus: Changed from Proposed → Validated. Priority: Moved to top of backlog.\n\n**The Notification**\n\nMonkFeed sends an email to all 150 voters:\n\n> Subject: Your feedback is shaping our roadmap\n>\n> Hi there,\n>\n> Thanks to your votes and feedback, we're moving \"Contextual Annotation\" to development. We spoke to several users who shared how they need to comment on specific data rows in their workflows.\n>\n> We're building this for Q3 launch.\n>\n> — The [Product] Team\n\n**The Result**\n\nYou built the right thing because you understood the real need, not just the surface request. You shipped faster because you didn't waste time on generic \"chat\" or \"co-editing.\" You created advocates because users saw their feedback lead to action."
+    },
+    {
+      "heading": "Common Mistakes to Avoid",
+      "content": "Even with the best workflow, it's easy to slip up. Here are the pitfalls:\n\n**Mistake 1: Interviewing Random Users**\nThe trap: You pick users who are easy to reach instead of users whose votes matter most.\nThe fix: Use MonkFeed to filter by User Tier first. Interview Enterprise users before Free tier users.\n\n**Mistake 2: Not Asking Follow-Up Questions**\nThe trap: You ask \"Do you want this feature?\" and accept \"Yes\" as an answer.\nThe fix: Use the Five Whys technique to dig to the root cause. Ask \"Why?\" at least 3 times per interview.\n\n**Mistake 3: Letting One Loud Voice Drive Strategy**\nThe trap: One user gives you a brilliant idea, so you add it to the roadmap without validating it.\nThe fix: Check the voting data. If only 2 other users agree, it's a niche need, not a roadmap priority.\n\n**Mistake 4: Forgetting to Close the Loop**\nThe trap: You do the interview, update MonkFeed, but never tell the user what happened.\nThe fix: Use MonkFeed's auto-notification feature. Let users know when their feedback led to action.\n\n**Mistake 5: Not Tagging Insights**\nThe trap: You conduct interviews but don't tag the insights in MonkFeed. Six months later, you've forgotten what you learned.\nThe fix: Immediately after each interview, tag the relevant items and add a comment with the key quote. This takes 10 minutes and saves hours of re-discovery later.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_14.webp",
+          "alt": "Side-by-side comparison of feedback mistakes marked with X icons versus corresponding best practices marked with checkmarks, ending in declining metrics versus rising metrics",
+          "caption": "The difference between guessing and validating usually comes down to five habits.",
+          "position": "after"
+        }
+      ]
+    },
+    {
+      "heading": "The Interview Question Cheat Sheet",
+      "content": "Save this for your next round of interviews:\n\n**Opening Question (Build Context)**\n\"I noticed you voted for [Feature Name]. Can you tell me about the last time you faced this problem?\"\n\n**The Five Whys (Dig Deeper)**\n\n1. \"Why is that important for you?\"\n2. \"Why does that happen specifically with our product?\"\n3. \"Why haven't you solved it another way?\"\n4. \"Why would this feature change your workflow?\"\n5. \"Why would you recommend this to a colleague?\"\n\n**The Hypothetical (Test Your Solution)**\n\"If we built [specific approach], would that solve your problem? Why or why not?\"\n\n**The Validation (Check Market Size)**\n\"How many people on your team would use this feature?\" \"How often would you use it?\" \"Would this be a deal-breaker if we didn't build it?\"\n\n**The Close (Get Commitment)**\n\"If we shipped this in Q3, would you be excited to use it?\" \"Would this reduce the time you spend on [pain point]?\""
+    },
+    {
+      "heading": "Conclusion: From Data to Decisions",
+      "content": "The teams that build products users love don't rely on guesses. They use data to find the signal, then use interviews to amplify it.\n\nBy using MonkFeed to:\n\n- Identify high-vote, low-comment items\n- Target the right users for interviews\n- Ask laser-focused questions based on voting patterns\n- Tag insights so they're discoverable\n- Notify voters when their feedback leads to action\n\nYou transform your feedback process from a guessing game into a precision engine.\n\nThe result? You build with confidence. You ship faster. You create advocates.\n\nReady to turn your voting data into interview gold? [Start using MonkFeed today](/signup) to identify your next interview candidates and validate your roadmap with confidence.",
+      "images": [
+        {
+          "src": "/blogs/turn-voting-data-into-interview-gold/turn-voting-data-into-interview-gold_15.webp",
+          "alt": "A stack of feedback cards funneling upward through filtering stages to a validated launch, with a person working at a laptop nearby",
+          "caption": "From a pile of votes to a shipped feature people asked for — that's the whole game.",
+          "position": "after"
+        }
+      ]
+    }
+  ]
+}
