@@ -1,8 +1,18 @@
 {
   "path": "blogs",
-  "generatedAt": "2026-07-26T12:56:14.244Z",
+  "generatedAt": "2026-07-26T17:14:14.104Z",
   "folders": [],
   "posts": [
+    {
+      "slug": "1234567io",
+      "title": "asdfghjkl",
+      "description": "asdfghjk",
+      "image": "",
+      "imageAlt": "",
+      "date": "2026-07-26",
+      "author": "bnm,",
+      "category": "op["
+    },
     {
       "slug": "turn-voting-data-into-interview-gold",
       "title": "How to Use MonkFeed to Turn Voting Data Into Interview Gold: A Tactical Guide",
