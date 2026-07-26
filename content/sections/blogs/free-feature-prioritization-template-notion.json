@@ -25,5 +25,6 @@
       "question": "When should I move from a Notion template to MonkFeed?",
       "answer": "Templates break when you have too much data or want direct user input. When you need users to vote on features live, it's time to upgrade to a dedicated tool like MonkFeed."
     }
-  ]
+  ],
+  "content": "## Master Your Backlog\n\nSpreadsheets and Notion are great for starting out, but they grow messy quickly. We've built the ultimate template to help you transition from 'mess' to 'order'.\n\n### The Framework: RICE scoring (Reach, Impact, Confidence, Effort)\n\nOur template includes pre-built formulas to calculate RICE scores, helping you objectively decide what to build next based on data, not gut feeling.\n\n#### Understanding RICE\n- **Reach**: How many users will this affect?\n- **Impact**: How much will it improve their experience?\n- **Confidence**: How sure are we about these numbers?\n- **Effort**: How many person-weeks will it take?\n\n### The Tutorial: How to use the Notion template\n\nWe guide you through importing your existing feedback and setting up the different views (Gallery, Board, List) to maximize your productivity.\n\n#### Pro Layouts\n- **Roadmap View**: See your upcoming quarters at a glance.\n- **Backlog View**: Sort by highest RICE score automatically.\n\n### The Evolution: Why spreadsheets eventually break\n\nWhile this template is a huge step up, it lacks real-time user interaction. That's where MonkFeed comes inâ€”taking your organized Notion layout and making it interactive for your users."
 }

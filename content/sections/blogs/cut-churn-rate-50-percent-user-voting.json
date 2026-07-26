@@ -25,5 +25,6 @@
       "question": "What is user-led growth?",
       "answer": "It's the strategy of building your roadmap based on transparent user demand, which creates a 'loyalty loop' that naturally reduces churn and increases expansion revenue."
     }
-  ]
+  ],
+  "content": "## The Silent Killer: Churn\n\nMost users don't tell you why they leave; they just leave. User voting gives them a voice and gives you a roadmap to keep them.\n\n### The 'Heard' Effect: How acknowledgment reduces frustration\n\nWhen a user sees that their requested feature is 'Planned' or even just 'Under Review', they are significantly more likely to stick around. They feel like part of the product's future.\n\n#### The Psychology of Belonging\nCustomers who feel like they are co-creating a product are 70% less likely to switch to a competitor, even for a lower price.\n\n### Prioritizing bug fixes vs. shiny features\n\nSometimes, the reason for churn is a small, nagging bug that you've ignored. MonkFeed allows your power users to surface these issues so you can fix what actually matters.\n\n#### Fixing the Leaks\nA bug fix might save 10 customers today, while a new feature might attract 1 new customer tomorrow. MonkFeed helps you see that math clearly.\n\n### Building a 'Community' around the product\n\nBy opening up your roadmap, you turn customers into stakeholders. Stakeholders don't churn; they help you grow."
 }

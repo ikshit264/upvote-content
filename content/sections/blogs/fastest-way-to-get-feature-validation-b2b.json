@@ -25,5 +25,6 @@
       "question": "What metrics show a feature is worth building?",
       "answer": "Look for a high Vote-to-Comment ratio. If users are taking the time to explain *why* they want a feature, it's a high-impact requirement."
     }
-  ]
+  ],
+  "content": "## Build with Confidence\n\nNothing is more painful than spending three months on a module only to have it launch to 'crickets'. Validation is the antidote.\n\n### Step 1: Creating a 'Shadow' feature post\n\nInstead of building, post the idea to your MonkFeed board. Use a compelling title and a 'Coming Soon' tag to gauge initial user interest.\n\n#### Shadow Testing\nThis is a classic 'Lean Startup' technique. You create a landing page (the post) before creating the product.\n\n### Step 2: Driving traffic via the MonkFeed Widget\n\nEmbed the MonkFeed widget directly into the part of your app where the new module would live. This targets users who are already in the right context to provide feedback.\n\n#### Contextual Feedback\nWhen a user is in the 'Reports' section, show them the 'Proposed' post for 'Advanced Analytics'. Their response will be much more accurate.\n\n### Step 3: Analyzing the vote-to-comment ratio\n\nVotes show interest, but comments show *need*. A high comment ratio means users are passionate and have specific requirements you need to address before you write code."
 }

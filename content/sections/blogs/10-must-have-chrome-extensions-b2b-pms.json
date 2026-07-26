@@ -25,5 +25,6 @@
       "question": "Are there extensions to help with B2B competitor research?",
       "answer": "Yes, tools like Meta SEO Inspector and Wappalyzer help PMs understand the tech stack and SEO strategies of their competitors directly from the browser."
     }
-  ]
+  ],
+  "content": "## The PM Super-Stack\n\nYour browser is your cockpit. Make sure it's equipped with the best tools to help you navigate the complex world of SaaS development.\n\n### Productivity: Loom and Grammarly\n\nCommunication is 90% of a PM's job. Loom for quick video updates and Grammarly for perfect documentation are non-negotiable.\n\n#### Why they matter\n- **Loom**: Faster than a meeting.\n- **Grammarly**: Professionalism in every PR description.\n\n### Feedback: MonkFeed\n\nCapture feedback on the fly while you're browsing your own app or talking to customers. The MonkFeed extension makes it easy to log requests without switching tabs.\n\n#### Capturing the Moment\nWhen you're in a demo and a prospect says \"I wish it did X\", you shouldn't have to open a new tab. Just hit the MonkFeed extension shortcut and log it.\n\n### Research: FullStory and Meta SEO Inspector\n\nUnderstand how users interact with your site and ensure your SEO is on point with these deep-dive research tools."
 }
