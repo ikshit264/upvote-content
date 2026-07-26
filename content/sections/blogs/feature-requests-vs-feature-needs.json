@@ -14,6 +14,7 @@
   },
   "sections": [
     {
+      "heading": "",
       "content": "> *\"Users are great at pointing out problems, but terrible at designing solutions.\"*\n\nEvery product manager has been there. A customer emails in: *\\\"Add a dark mode!\\\"* or *\\\"Let me export to XML!\\\"* You build it, launch it, and crickets. Meanwhile, the feature that actually moves your churn metric sits on the roadmap, ignored.\n\nThe hard truth? **Customers tell you what they think they want, not what they actually need.**\n\nDistinguishing between a loud feature request and a silent feature need is the single most critical skill in product strategy. If you build everything your users ask for, you'll end up with a bloated, unusable product that solves nothing.\n\nHere is how to separate signals from noise and build products that users actually love.",
       "images": [
         {
@@ -49,6 +50,7 @@
       ]
     },
     {
+      "heading": "",
       "content": "### 2. Look for Workarounds\n\nUsers are resourceful. If they are hacking together spreadsheets, sticky notes, or manual copy-pasting, **that gap is a feature screaming louder than any email**. If they haven't found a workaround yet, they might not even realize they have a problem.\n\n### 3. Analyze Behavior, Not Just Words\n\nWhat users *do* often contradicts what they *say*. If they claim they need more customization options but never use the settings menu you already built, they likely don't need more features — they need better defaults.\n\nBehavioral data is the most honest feedback you'll ever get. It can't be exaggerated, misremembered, or politicized.",
       "images": [
         {

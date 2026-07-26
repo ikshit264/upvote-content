@@ -14,6 +14,7 @@
   },
   "sections": [
     {
+      "heading": "",
       "content": "Most product teams run into a familiar wall: they have plenty of data, but none of it tells the whole story.\n\nOn one side, you have quantitative data — the hard numbers from your analytics and feedback boards. You know what users are clicking, how many people voted for a feature, and where they are dropping off.\n\nOn the other side, you have qualitative data — the rich, messy, human stories from user interviews. You know why they clicked, how they feel about the product, and what they need to solve their problem.\n\nThe problem? These two data streams often live in separate silos. The analytics team looks at dashboards, while the product team watches interview recordings. When these worlds don't collide, you end up building features based on guesswork or, worse, optimizing for the wrong problems.\n\nAt MonkFeed, we believe the magic happens when you stop choosing between \"votes\" and \"stories\" and start using them together. Here is your practical guide to mixing quantitative voting data with qualitative user interviews to build products your customers actually love.",
       "images": []
     },

@@ -14,6 +14,7 @@
   },
   "sections": [
     {
+      "heading": "",
       "content": "Roadmaps that look great internally but miss the mark with users are one of the most expensive problems in product development. You spend a quarter building something polished, ship it, and hear nothing. Meanwhile, the feature that would have actually reduced churn is still sitting in a backlog column labeled \"someday.\"\n\nModern product teams are moving away from \"build and hope\" toward **\"listen and validate.\"** The shift isn't just philosophical — it's structural. It means changing where roadmap input comes from before a single line of code is written.\n\nThis guide walks you through exactly how to build a product roadmap co-created with your customers through structured feedback and data-driven prioritization.",
       "images": []
     },
