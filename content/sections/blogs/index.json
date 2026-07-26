@@ -1,6 +1,6 @@
 {
   "path": "blogs",
-  "generatedAt": "2026-07-26T10:58:18.790Z",
+  "generatedAt": "2026-07-26T12:56:14.244Z",
   "folders": [],
   "posts": [
     {
@@ -115,7 +115,7 @@
     },
     {
       "slug": "introducing-monkfeed-feedback-widget",
-      "title": "Stop Guessing, Start Building: Introducing Monkfeed, the Feedback Widget That Actually Drives Product Decisions",
+      "title": "Stop Guessing, Start Building: Introducing UpVote, the Feedback Widget That Actually Drives Product Decisions",
       "description": "Every product manager knows the struggle. You're staring at a roadmap full of 'nice-to-haves,' but you're not 100% sure which feature will actually move the needle.",
       "image": "/blogs/introducing-monkfeed-feedback-widget/introducing-monkfeed-feedback-widget_1.webp",
       "date": "2026-05-03",
@@ -205,7 +205,7 @@
     },
     {
       "slug": "productboard-vs-monkfeed-early-stage-b2b-saas",
-      "title": "Productboard vs. MonkFeed: Which is better for early-stage B2B SaaS?",
+      "title": "Productboard vs. UpVote: Which is better for early-stage B2B SaaS?",
       "description": "A classic comparison piece. Productboard is for massive teams; MonkFeed is for the fast-movers.",
       "image": "/blogs/productboard-vs-monkfeed-early-stage-b2b-saas/productboard-vs-monkfeed-early-stage-b2b-saas_1.webp",
       "date": "2026-02-22",

@@ -11,28 +11,80 @@
     "description": "Stop overpaying for feedback software. Compare Canny's expensive pricing with MonkFeed's sustainable model for growing B2B SaaS startups.",
     "keywords": "Canny alternative, Canny pricing 2026, MonkFeed vs Canny, feedback software cost, B2B SaaS tools, feature request software, product feedback management, SaaS pricing models, feature voting tool costs"
   },
-  "sections": [],
-  "faqs": [
+  "sections": [
     {
-      "question": "Is Canny free for small teams?",
-      "answer": "Canny offers a limited free tier, but as of 2026, many essential features like private boards, advanced security, and full-featured integrations are locked behind high-priced growth plans that scale aggressively."
+      "heading": "The Hidden Cost of 'Free' and 'Starter' Plans",
+      "content": "Every small B2B team has had this conversation: *\"Let's just start on the free plan and upgrade later if we need to.\"* It's a reasonable instinct — and for a feedback and roadmapping tool, it usually works fine for the first few months.\n\nThe problem shows up later, not at signup. [Canny](https://canny.io) is a well-regarded, widely-used feedback and roadmap tool, and its free tier is genuinely useful to start with. But like most tools in this category, Canny's paid plans scale with a metric that has nothing to do with your team size or your revenue: the number of **tracked users** — anyone who has ever posted, voted, or commented on your board.\n\nFor an early-stage B2B product, that number can climb fast. A single onboarding email blast, a Product Hunt launch, or one enthusiastic customer forwarding your feedback board to their whole team can quietly push you past a plan threshold. Suddenly the tool you picked because it was \"basically free\" is a recurring line item that grows independently of your MRR.\n\n> This isn't a knock on Canny's product — it's a genuinely capable tool with a large, loyal customer base. The issue for small teams is specifically the *shape* of the pricing curve relative to a lean, early-stage budget.",
+      "images": [],
+      "faqs": []
     },
     {
-      "question": "How does Canny pricing scale compared to MonkFeed?",
-      "answer": "Canny uses a 'per tracked user' or 'growth' model where costs increase proportional to your success in gathering feedback. MonkFeed focuses on providing fixed value, making it 70% more affordable for scaling startups."
+      "heading": "How Canny's Tracked-User Pricing Actually Works",
+      "content": "As of 2026, Canny's self-serve pricing (per publicly available plan breakdowns) is structured around three tiers — **Core**, **Pro**, and a custom-quoted **Business** tier — with a free plan capped at a small number of tracked users to start.\n\nThe pattern worth understanding, whatever the exact dollar figures are at the moment you check, is this: both paid tiers list an entry price for a modest number of tracked users, and the price step-increases as your tracked-user count grows — the same plan can cost several times more once you cross a few hundred tracked users, and substantially more again past a thousand. The **Business** tier, meant for larger organizations with thousands of tracked users, moves to custom quoting entirely.\n\nA few things to flag for a small team evaluating this:\n\n- **Pricing pages change.** Vendors adjust tiers, thresholds, and dollar amounts regularly, and Canny is no exception — it's worth checking Canny's own site directly for the current numbers before you budget against anything you read in a blog post, including this one.\n- **\"Tracked user\" is a broad definition.** It's not just paying seats or teammates — it's every end customer who ever interacts with your board. For a B2B product with dozens or hundreds of customer stakeholders providing feedback, that count adds up quickly.\n- **The step-function matters more than the sticker price.** A tool that looks affordable at your current user count can become a budget conversation the moment you cross the next threshold — often at a moment when you're focused on growth, not renegotiating SaaS spend.",
+      "images": [],
+      "faqs": [
+        {
+          "question": "Does Canny still offer a free plan?",
+          "answer": "Yes — Canny has historically offered a free tier capped at a small number of tracked users, which is enough for early testing but tends to be outgrown quickly once real customers start engaging with your board. Check Canny's site directly for current free-tier limits."
+        }
+      ]
     },
     {
-      "question": "What is the best Canny alternative for 2026?",
-      "answer": "MonkFeed is the leading Canny alternative for B2B SaaS teams in 2026, offering core features like upvoting boards, roadmaps, and changelogs without the 'startup tax' or complex setup."
+      "heading": "The Feature Tax: What Gets Paywalled as You Scale",
+      "content": "Beyond the tracked-user math, the bigger friction point for small teams is what we'd call the **feature tax** — the set of genuinely useful features that only unlock once you move up a tier.\n\nBased on Canny's current published plan structure, features like a **custom domain** for your feedback board and content translations sit behind the paid Core tier rather than the free plan. Deeper functionality — **PM tool integrations** (Jira, ClickUp, Linear), **user segmentation**, and **automation rules** — sit a level higher, on the Pro tier. None of this is unreasonable on Canny's part; it's a standard SaaS tiering strategy, and larger companies with dedicated budgets rarely blink at it.\n\nFor a five-person startup, though, the calculus is different. You don't necessarily need automation rules or deep PM-tool sync in month three — but you probably *do* want your feedback board on your own domain, and you probably do want to filter and segment feedback by customer plan or account almost immediately, because that's how you decide what to build next.\n\n*The point isn't that Canny hides these features maliciously — it's that the features a lean team needs on day one and the features that unlock cheaply don't always line up.*",
+      "images": [],
+      "faqs": []
     },
     {
-      "question": "Does MonkFeed have feature parity with Canny?",
-      "answer": "Yes, MonkFeed provides 90% of the functionality that 99% of SaaS teams actually use, specifically focusing on user feedback capture, voting moderation, and automated roadmapping."
+      "heading": "Canny vs UpVote: Feature Availability at a Glance",
+      "content": "Here's how the two compare on the features small teams tend to ask about first. Treat the Canny column as directional — always confirm current tier requirements on [canny.io](https://canny.io) before budgeting, since SaaS pricing pages change often.\n\n| Feature | Canny Tier Typically Required | UpVote Availability |\n|---|---|---|\n| Public voting board | Free | Included on all plans |\n| Private boards | Free | Included on all plans |\n| Custom domain | Paid (Core) | Not fenced behind a premium add-on |\n| Feedback filtering & segmentation | Paid (Pro) | Included as core functionality |\n| PM tool integrations (Jira, ClickUp, Linear) | Paid (Pro) | Available without jumping to a top-tier plan |\n| Roadmap / changelog | Free–Core | Included |\n| Pricing scales with | Tracked users (posts/votes/comments) | Flat, predictable plan tiers |\n\nThe biggest structural difference isn't any single feature — it's the *pricing shape*. Canny's model ties cost to engagement (more votes and comments from your customers literally increases your bill). UpVote's plans are built so that a small team's cost stays predictable as their customer feedback volume grows, rather than punishing you for the exact behavior — active customer engagement — that a feedback tool is supposed to encourage.",
+      "images": [],
+      "faqs": []
     },
     {
-      "question": "Is it easy to migrate from Canny to MonkFeed?",
-      "answer": "Absolutely. MonkFeed supports direct data imports, allowing you to move your existing votes, users, and feedback comments in just a few clicks without losing historical data."
+      "heading": "Why 'Per Tracked User' Pricing Becomes a Trap",
+      "content": "Tracked-user pricing sounds fair in theory: you pay more as more people use the tool. In practice, for a small B2B team, it creates a perverse incentive.\n\nConsider what actually drives your tracked-user count up:\n\n1. **A successful marketing push.** More signups mean more potential voters on your board.\n2. **Better customer engagement.** The more your customers trust you enough to leave feedback, the higher your bill climbs.\n3. **Word of mouth inside a customer's own company.** One enterprise customer forwarding your board internally can add a dozen tracked users overnight.\n\nEach of these is a *good outcome* for your business — yet each one nudges you closer to a pricing cliff. That's the trap: the tool is metering the exact behavior (active customer participation) that makes a feedback board valuable in the first place. A small team on a tight budget can end up quietly discouraging feedback engagement, or delaying a marketing push, because of what it might do to next month's tooling bill.\n\n> A pricing model that makes you hesitate before encouraging more customer feedback is working against the reason you bought a feedback tool.\n\nThis is less of a problem for larger, well-funded teams where a few hundred extra dollars a month is a rounding error. For an early-stage team watching runway closely, it's a real constraint on how you use the product.",
+      "images": [],
+      "faqs": [
+        {
+          "question": "Is tracked-user pricing unique to Canny?",
+          "answer": "No — it's a common pattern across the feedback and roadmapping category, not something specific to Canny. The trap applies to any vendor using this model; it's worth checking how a tool counts and prices tracked users before committing, regardless of which vendor you're evaluating."
+        }
+      ]
+    },
+    {
+      "heading": "Feature Parity: Do You Actually Need the Enterprise Tier?",
+      "content": "It's worth being honest here: Canny's higher tiers exist because some teams genuinely need what's in them. If you're running a large product org with dozens of stakeholders, deep Jira/Linear sync, and complex automation rules across multiple products, that tooling investment can pay for itself.\n\nMost small B2B teams are not that org yet. What a five-to-twenty-person team typically needs from a feedback tool is narrower:\n\n- A public or private board customers can actually find and use\n- The ability to filter and prioritize feedback by customer, plan, or account\n- A changelog and roadmap to close the loop with customers\n- A board that looks like *your* product, not a third-party subdomain\n\nThat's a meaningfully smaller feature set than what sits at the top of most competitors' pricing ladders — and it's the set of features UpVote treats as table stakes rather than upsells. The honest framing isn't \"Canny's expensive tier is bloated\" — it's that **a small team often doesn't need to pay for the expensive tier's problems yet**, and shouldn't have to just to get filtering and a custom domain.",
+      "images": [],
+      "faqs": []
+    },
+    {
+      "heading": "What to Actually Look For When Comparing Feedback Tools",
+      "content": "If you're evaluating Canny, UpVote, or anything else in this category, skip the marketing pages and check these directly:\n\n- **How is pricing metered?** Per tracked user, per seat, flat tier, or something else — and what happens to your bill if that number doubles in six months?\n- **What's behind the first paywall you'll actually hit?** Not the enterprise tier — the *next* tier up from where you'll likely start.\n- **Is a custom domain a paid add-on?** Small detail, but it affects how professional your feedback board looks to customers from day one.\n- **Can you filter and segment feedback without upgrading?** This is core to actually acting on feedback, not a power-user nicety.\n- **What does the pricing look like at 2x and 5x your current tracked-user count?** Model it out before you commit, not after you're locked in.\n\nRunning these questions against Canny's current published pricing (check [canny.io](https://canny.io) directly, since tiers and dollar amounts shift over time) versus a flatter, small-team-oriented model like UpVote's will usually make the fit obvious pretty quickly.",
+      "images": [],
+      "faqs": []
     }
   ],
-  "content": "## The Hidden Cost of 'Free' and 'Startup' Plans\n\nWhen you're starting out, Canny's free tier looks inviting. But as you grow, the 'Feature Tax' kicks in. \n\n### The 'Feature Tax': Breaking down Canny's paywalled features\n\nMost essential integrations and advanced privacy controls are locked behind their expensive tiers. For a small B2B team, these aren't 'nice-to-haves'â€”they are essential for professional operations.\n\n#### Why pay for basics?\n- **Private Boards**: often a paid feature in Canny.\n- **Custom Domains**: rarely available on lower tiers.\n- **Advanced Filtering**: locked behind growth plans.\n\n### Scale-ability: Why 'per tracked user' pricing models are a trap\n\nCanny often scales based on the number of users in your database. This means as your product becomes successful, your software bill explodes, even if your revenue doesn't grow at the same rate.\n\n#### The Math of Growth\nIf you have 5,000 monthly active users, Canny might charge you hundreds of dollars just to let them click a 'vote' button. MonkFeed takes a different approach, focusing on the value we provide to your internal team.\n\n### Feature parity: MonkFeed does 90% of the work for 30% of the cost\n\nMonkFeed provides the core features you actually useâ€”voting boards, roadmap, and changelogâ€”without the enterprise bloat and matching price tag. We believe in sustainable growth for our customers.\n\n#### Summary of Comparison\n1. **Setup**: MonkFeed (5 mins) vs Canny (Hours of config).\n2. **Pricing**: Transparent vs Tier-locked.\n3. **Support**: Person-to-person vs Ticket-queue."
+  "faqs": [
+    {
+      "question": "Is Canny a bad product?",
+      "answer": "No — Canny is a well-established, widely-used feedback and roadmapping tool with a large customer base, and it's a solid choice for many teams, particularly larger organizations that need its deeper PM-tool integrations and automation features. The concern for small B2B teams isn't product quality; it's that Canny's tracked-user pricing model can scale faster than a lean team's budget as customer engagement grows."
+    },
+    {
+      "question": "How much more affordable is UpVote than Canny?",
+      "answer": "It depends on your tracked-user count and which features you need, so we won't quote a single blanket percentage. What we can say directionally: because Canny's pricing scales with tracked users while UpVote uses flatter, more predictable plan tiers, the gap tends to widen in UpVote's favor as your customer base and feedback volume grow. We'd encourage you to compare both pricing pages against your actual (or projected) tracked-user numbers rather than take any vendor's marketing claim at face value."
+    },
+    {
+      "question": "Does UpVote have all the same features as Canny?",
+      "answer": "Not feature-for-feature — Canny has been in the category longer and has built out deep functionality for large product organizations, including extensive PM-tool integrations and automation. UpVote focuses on the feature set that small and mid-sized B2B teams actually use day to day: boards, filtering, roadmaps, and changelogs, without gating the basics behind higher tiers. If your team needs enterprise-grade automation across multiple products, it's worth evaluating both directly against your requirements list rather than assuming parity either way."
+    },
+    {
+      "question": "What is a 'tracked user' and why does it matter for pricing?",
+      "answer": "In tools like Canny, a tracked user is generally anyone who has posted, voted, or commented on your feedback board — not just paying seats or internal teammates. This matters because it means your bill can grow simply from your product getting more customer engagement, independent of your revenue or team size. It's one of the first things to check when comparing feedback tool pricing."
+    },
+    {
+      "question": "How hard is it to switch from Canny to UpVote?",
+      "answer": "It varies by how much historical feedback data and board structure you want to bring over. If you're considering a switch, the best first step is to reach out to UpVote support directly to discuss your specific setup and what a migration would involve for your account."
+    }
+  ]
 }

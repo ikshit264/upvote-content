@@ -1,5 +1,5 @@
 {
-  "title": "Stop Guessing, Start Building: Introducing Monkfeed, the Feedback Widget That Actually Drives Product Decisions",
+  "title": "Stop Guessing, Start Building: Introducing UpVote, the Feedback Widget That Actually Drives Product Decisions",
   "description": "Every product manager knows the struggle. You're staring at a roadmap full of 'nice-to-haves,' but you're not 100% sure which feature will actually move the needle.",
   "image": "/blogs/introducing-monkfeed-feedback-widget/introducing-monkfeed-feedback-widget_1.webp",
   "date": "2026-05-03",
@@ -11,24 +11,81 @@
     "description": "Stop guessing what features to build. Meet Monkfeed, a lightweight, embeddable customer feedback widget that helps SaaS teams prioritize roadmaps and capture real-time insights.",
     "keywords": "feedback widget, customer feedback tool, SaaS product management, feature prioritization, product roadmap, embeddable feedback widget, user feedback software, Monkfeed launch, SaaS growth"
   },
-  "sections": [],
+  "sections": [
+    {
+      "heading": "Why Most Feedback Fails (And How UpVote Fixes It)",
+      "content": "Traditional feedback loops are broken. Feature requests pile up in scattered spreadsheets, support tickets, Slack threads, and email inboxes. Product teams end up guessing what to build next based on whoever shouted loudest — usually the last person in the room, not the customer with the most at stake.\n\nThe result? Roadmaps that drift away from what users actually need, wasted engineering cycles, and customers who feel unheard because their feedback disappeared into a black hole.\n\nUpVote fixes this by giving you a single, embeddable feedback widget and voting board that lives right inside your product. Instead of feedback scattered across a dozen tools, everything flows into one place where your team can see it, prioritize it, and act on it.",
+      "images": [],
+      "faqs": []
+    },
+    {
+      "heading": "The UpVote Difference: Real-Time, Contextual Feedback",
+      "content": "Most feedback tools ask users to leave your product and go fill out a form somewhere else. By the time they get there, the friction has already killed half your responses.\n\nUpVote embeds directly into your app, website, or dashboard, so users can submit feedback in the exact moment they're experiencing something — a bug, a missing feature, a moment of delight. That context matters. Feedback captured in the flow of real usage is more specific, more actionable, and far more likely to actually get submitted in the first place.\n\nNo redirects. No separate login. No context switching. Just a lightweight widget that feels like a native part of your product.",
+      "images": [],
+      "faqs": []
+    },
+    {
+      "heading": "Smart Prioritization, Not Just Noise",
+      "content": "Collecting feedback is easy. Knowing what to do with it is the hard part.\n\nUpVote turns raw feedback into a prioritized signal by letting users vote on the ideas that matter most to them. Instead of relying on gut feeling or the most recent complaint, your team can see — at a glance — which requests have the most demand behind them.\n\nThis shifts the conversation from \"what do we think users want\" to \"what do users actually want,\" backed by real votes from real customers.",
+      "images": [],
+      "faqs": []
+    },
+    {
+      "heading": "Rich Discussions, Not Just Data Points",
+      "content": "A vote count tells you *what* people want. It doesn't tell you *why*. UpVote adds threaded comments and discussions to every feedback item, so users can explain their use case, add context, and build on each other's ideas.\n\nThis turns your feedback board into a genuine dialogue between your team and your customers — not just a leaderboard of upvotes. Product managers get the nuance they need to make confident decisions, and customers get the sense that someone is actually listening.",
+      "images": [],
+      "faqs": []
+    },
+    {
+      "heading": "A Dashboard Built for Product Teams",
+      "content": "Behind every UpVote widget is a dashboard designed for the people who actually have to act on feedback. Product managers get a clear, organized view of every request, filterable by status, votes, tags, and more.\n\nYou can move items through a visible pipeline — from \"Under Review\" to \"Planned\" to \"In Progress\" to \"Shipped\" — so your team always knows what's next, and your customers can see their feedback is moving somewhere instead of vanishing.\n\nNo more digging through spreadsheets or reconstructing context from old Slack messages. Everything about a feature request lives in one place: the original submission, the votes, the discussion, and its current status.",
+      "images": [],
+      "faqs": []
+    },
+    {
+      "heading": "Built for Modern Teams",
+      "content": "UpVote is designed to fit into the tools and workflows product teams already use. It's lightweight enough to embed in minutes, flexible enough to match your brand, and simple enough that your users won't need an onboarding tutorial just to leave feedback.\n\nWhether you're a startup shipping fast or a growing SaaS company trying to bring structure to your roadmap, UpVote scales with you — start with the essentials, and layer on more advanced prioritization and customization as your feedback volume grows.",
+      "images": [],
+      "faqs": []
+    },
+    {
+      "heading": "How It Works",
+      "content": "Getting started with UpVote takes minutes, not weeks. Here's the typical setup:\n\n| Step | What You Do | Outcome |\n|------|-------------|---------|\n| 1. Install | Drop a lightweight embed snippet into your app or website | Widget appears wherever you want feedback collected |\n| 2. Customize | Match the widget to your brand's look and feel | Feels native, not bolted-on |\n| 3. Collect | Users submit ideas, vote, and discuss | Feedback flows into one organized board |\n| 4. Prioritize & Ship | Your team reviews votes and context, updates status | Customers see their feedback move from idea to shipped feature |\n\nNo engineering sprint required to get up and running — most teams are collecting their first feedback within the hour.",
+      "images": [],
+      "faqs": []
+    },
+    {
+      "heading": "Join the Feedback Revolution",
+      "content": "Product decisions shouldn't be a guessing game. With UpVote, you replace scattered opinions and gut instinct with a clear, prioritized signal straight from the people who matter most: your users.\n\nStop guessing. Start building what your customers actually want — with UpVote.",
+      "images": [],
+      "faqs": [
+        {
+          "question": "Is there a free plan?",
+          "answer": "Yes. UpVote's Hobby Plan is free forever, so you can start collecting and prioritizing feedback without committing to a paid plan. As your needs grow, you can upgrade to unlock more advanced features and higher usage limits."
+        },
+        {
+          "question": "How do you handle spam?",
+          "answer": "UpVote includes built-in moderation tools so your team can review, approve, or remove submissions before they go live, along with safeguards to help filter out spam and abuse from the feedback board."
+        }
+      ]
+    }
+  ],
   "faqs": [
     {
       "question": "Does it work on mobile apps?",
-      "answer": "Yes! Monkfeed is designed for both SaaS platforms and mobile apps, ensuring a seamless experience across all devices."
+      "answer": "Yes. UpVote's widget is built to work across web and mobile apps, so you can collect contextual feedback wherever your users are."
     },
     {
       "question": "Can I customize the look and feel?",
-      "answer": "Absolutely. You can match your brand's colors, fonts, and styles to ensure the widget feels like a native part of your product."
+      "answer": "Yes. UpVote's widget can be customized to match your brand's colors, fonts, and styling so it feels like a native part of your product rather than a bolted-on tool."
     },
     {
       "question": "Is there a free plan?",
-      "answer": "Yes, our Hobby Plan is free forever and perfect for side projects and personal sites."
+      "answer": "Yes. UpVote's Hobby Plan is free forever, giving you the essentials to start collecting and prioritizing feedback at no cost."
     },
     {
       "question": "How do you handle spam?",
-      "answer": "We have built-in moderation tools and filtering to keep your feedback submissions clean, useful, and high-quality."
+      "answer": "UpVote provides moderation controls that let your team review and manage submissions, helping filter out spam and low-quality noise from your feedback board."
     }
-  ],
-  "content": "## Why Most Feedback Fails (And How Monkfeed Fixes It)\n\nTraditional feedback loops are broken. They are often slow, disconnected from the user’s workflow, and lack context. When a user has to leave your app to fill out a Typeform© or send an email, you lose momentum and valuable data.\n\nMonkfeed lives inside your application.\n\nBy embedding a simple one-line script, you give users a direct line to your product team. They can suggest features, vote on existing ideas, and engage in discussions without ever leaving the page they are working on.\n\n## The Monkfeed Difference\n\n### Real-Time, Contextual Feedback\nDon’t wait for the next quarterly survey. Capture feedback the moment a user hits a friction point or has a bright idea. Our widget is lightning fast, ensuring your Core Web Vitals stay intact and the user experience remains seamless.\n\n### Smart Prioritization, Not Just Noise\nGetting 1,000 feature requests is useless if you don’t know which ones matter. Monkfeed doesn’t just count votes; it helps you spot the ideas that matter most. By focusing on requests from your most engaged customers and teammates, you can prioritize your roadmap with confidence.\n\n### Rich Discussions, Not Just Data Points\nFeedback isn’t a one-way street. Monkfeed enables rich discussions with comments and threaded replies. This gives your team the context they need to understand the why behind a request, turning a simple \"Add Dark Mode\" vote into a detailed conversation about user workflow.\n\n## A Dashboard Built for Product Teams\n\nForget spreadsheets. Our focused dashboard gives you a bird’s-eye view of your product’s health.\n- **Track Demand**: See exactly how many users are asking for a feature.\n- **Analyze Trends**: Identify sentiment shifts and emerging needs over time.\n- **Measure Engagement**: Monitor response rates and active participation.\n\nTurn feedback into product decisions faster. A focused dashboard for spotting demand, tracking requests, and acting on customer insight quickly.\n\n## Built for Modern Teams\n\nWhether you are a solo developer building a side project or a large enterprise fintech team, Monkfeed scales with you.\n- **Lightweight**: Loads instantly so your site speed stays perfect.\n- **Highly Customizable**: Match your brand with custom colors, fonts, and styles.\n- **Spam Protection**: Keep submissions clean with built-in moderation and filtering.\n- **Dark Mode Ready**: Because we practice what we preach, the dashboard looks great in any light.\n\n## How It Works\n\nSetting up Monkfeed takes seconds, not days.\n1. **Sign Up**: Start with our Hobby Plan (free forever) or choose the Pro or Enterprise plans as you grow. No credit card required.\n2. **Embed**: Copy one line of JavaScript code. It works with HTML, Next.js, React, and more.\n3. **Customize**: Adjust the theme to match your app’s UI.\n4. **Launch**: Users can immediately start monkfeeding features and engaging with your roadmap.\n\n## Join the Feedback Revolution\n\nBuilding better products starts with listening to the people who use them every day. Monkfeed removes the friction between your users and your roadmap, ensuring you build what they actually want.\n\nDon’t let another feature request get lost in the void.\n\nTry Monkfeed Live Today - It’s free to start, and you’ll see the impact on your product strategy immediately."
+  ]
 }
