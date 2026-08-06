@@ -14,9 +14,15 @@
   },
   "sections": [
     {
+      "id": "31889bc8-bc79-42e8-b722-f869dee8ea2e",
       "heading": "",
       "content": "asdfghjk,.,mbvcx",
-      "images": [],
+      "images": [
+        {
+          "src": "/blogs/1234567io/1234567io_1.webp",
+          "alt": ""
+        }
+      ],
       "faqs": []
     }
   ],
