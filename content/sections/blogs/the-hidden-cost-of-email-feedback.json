@@ -2,14 +2,14 @@
   "title": "The Hidden Cost of Email Feedback: Why Spreadsheets Are Killing Your Product Velocity",
   "description": "You know the scenario. Your inbox is flooded. A customer emails a feature request. Another DMs you on Slack. A third posts a complaint in your public Discord. You feel productive because you’re listening. But while you’re busy collecting these insights, your product velocity is silently grinding to a halt. The hidden cost of managing feedback via email and spreadsheets isn’t just the annoyance of tab-switching. It’s the thousands of engineering hours wasted on features nobody asked for, the churn caused by ignored requests, and the opportunity cost of building the wrong roadmap. Here’s the data-driven breakdown of why your current workflow is a bottleneck and how to fix it before Q4.",
   "image": "",
-  "imageAlt": "",
+  "imageAlt": "ALT text",
   "date": "2026-08-06",
   "author": "Hitender",
   "category": "Example-Category-05",
   "draft": false,
   "metadata": {
-    "title": "",
-    "description": "",
+    "title": "The Hidden Cost of Email Feedback",
+    "description": "You know the scenario. Your inbox is flooded. A customer emails a feature request.",
     "keywords": ""
   },
   "sections": [
