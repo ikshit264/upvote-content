@@ -1,0 +1,43 @@
+{
+  "title": "Example test tutorial 1",
+  "description": "Description goes here",
+  "image": "",
+  "imageAlt": "Alt text",
+  "date": "2026-08-07",
+  "author": "Team Monkfeed",
+  "category": "Cat-1",
+  "draft": true,
+  "metadata": {
+    "title": "Example test tutorial 1",
+    "description": "Some description",
+    "keywords": ""
+  },
+  "sections": [
+    {
+      "id": "d05e4bbe-bc4a-47fd-a636-fcd6a0f681db",
+      "heading": "H2 heading",
+      "content": "A paragraph.",
+      "images": [],
+      "faqs": [
+        {
+          "question": "FAQ1",
+          "answer": "Answer"
+        },
+        {
+          "question": "FAQ2",
+          "answer": "Answer"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "FAQQ1",
+      "answer": "Answer"
+    },
+    {
+      "question": "FAQQ2",
+      "answer": "Answer"
+    }
+  ]
+}
