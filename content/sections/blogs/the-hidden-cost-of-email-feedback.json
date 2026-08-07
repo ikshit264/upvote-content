@@ -83,5 +83,14 @@
       "faqs": []
     }
   ],
-  "faqs": []
+  "faqs": [
+    {
+      "question": "FAQ1",
+      "answer": "Answer1"
+    },
+    {
+      "question": "FAQ2",
+      "answer": "Answer2"
+    }
+  ]
 }
