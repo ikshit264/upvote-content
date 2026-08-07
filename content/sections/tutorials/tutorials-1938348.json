@@ -6,7 +6,7 @@
   "date": "2026-08-07",
   "author": "Team Monkfeed",
   "category": "Cat-1",
-  "draft": true,
+  "draft": false,
   "metadata": {
     "title": "Example test tutorial 1",
     "description": "Some description",
