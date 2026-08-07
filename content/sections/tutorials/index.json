@@ -1,6 +1,17 @@
 {
   "path": "tutorials",
-  "generatedAt": "2026-08-07T22:15:14.367Z",
+  "generatedAt": "2026-08-07T22:17:45.896Z",
   "folders": [],
-  "posts": []
+  "posts": [
+    {
+      "slug": "tutorials-1938348",
+      "title": "Example test tutorial 1",
+      "description": "Description goes here",
+      "image": "",
+      "imageAlt": "Alt text",
+      "date": "2026-08-07",
+      "author": "Team Monkfeed",
+      "category": "Cat-1"
+    }
+  ]
 }
