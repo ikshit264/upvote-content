@@ -1,0 +1,52 @@
+{
+  "title": "Example test tutorial 2",
+  "description": "Description about the page",
+  "image": "",
+  "imageAlt": "Alt text for this image",
+  "date": "2026-08-07",
+  "author": "Team Monkfeed",
+  "category": "Cat-2",
+  "draft": false,
+  "metadata": {
+    "title": "Example test tutorial 2",
+    "description": "Meta decription",
+    "keywords": ""
+  },
+  "sections": [
+    {
+      "id": "76a7765a-5563-4f5a-90a9-fdbb742bd795",
+      "heading": "H2 Heading",
+      "content": "Description",
+      "images": [],
+      "faqs": [
+        {
+          "question": "FAQQQ1",
+          "answer": "Answer"
+        },
+        {
+          "question": "FAQQQ2",
+          "answer": "Answer"
+        }
+      ],
+      "children": [
+        {
+          "id": "f46b6c7b-19a9-4356-9f0f-0758e5385be9",
+          "heading": "H3 Heading",
+          "content": "Description",
+          "images": [],
+          "faqs": []
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "FAQQQQ1",
+      "answer": "Ans"
+    },
+    {
+      "question": "FAQQQQ2",
+      "answer": "Ans"
+    }
+  ]
+}
