@@ -44,6 +44,43 @@
           "faqs": []
         }
       ]
+    },
+    {
+      "id": "bdea33e2-5223-4a0d-81da-1f7378dba8e7",
+      "heading": "The Churn Multiplier: Why \"No Reply\" Means \"Goodbye\"",
+      "content": "There is a silent killer in the email feedback loop: The Black Hole.\n\nWhen a user emails a request, they expect a response. If they don’t get one, or if they don’t see the feature appear, they assume you don’t care.\n•\tEmail Feedback: 0% visibility. The user has no way to see if others want the same thing or if you are working on it.\n•\tCentralized Board: 100% visibility. Users can see the request status, vote, and comment.\n\nThe Data: Teams that close the feedback loop (telling users exactly what is happening with their request) see 30% lower churn rates.\n\nWhen you use spreadsheets, \"closing the loop\" requires a manual email to every single person who asked. It’s impossible at scale. When you use a tool like MonkFeed, you can send a one-click update to everyone who voted on a feature when it ships. This turns frustrated users into loyal advocates.",
+      "images": [],
+      "faqs": []
+    },
+    {
+      "id": "ee85230d-73f8-4a2a-ba7a-baebb72278e5",
+      "heading": "The Solution: From Chaos to Clarity",
+      "content": "You don’t need a bigger team. You need a better system.\n\nSwitching from email/spreadsheets to a dedicated feedback loop tool isn’t just an admin upgrade; it’s a strategic pivot.",
+      "images": [],
+      "faqs": [],
+      "children": [
+        {
+          "id": "e73a1f5a-4cb0-4c12-b2d3-6013b4c7e8bf",
+          "heading": "What You Gain by Switching",
+          "content": "1.\tInstant Triage: Feedback lands in one place, automatically categorized and deduplicated.\n2.\tReal-Time Prioritization: See exactly what users want based on votes, not volume of emails.\n3.\tAutomated Updates: Users get notified when their request moves from \"Proposed\" to \"Shipped.\"\n4.\tData-Driven Roadmaps: Export clear reports for stakeholders showing why you built what you built.",
+          "images": [],
+          "faqs": []
+        },
+        {
+          "id": "f645ea42-360d-44b6-af71-8b6cc2fbed01",
+          "heading": "The MonkFeed Advantage",
+          "content": "MonkFeed was built specifically to solve the \"Spreadsheet Trap.\"\n•\tEmbedded Widget: Capture feedback right where users work, not in their inbox.\n•\tSmart Automation: Automatically tag, score, and route feedback to your roadmap.\n•\tFree for Startups: Stop paying for enterprise bloat when you need agility.\n\n\"The fastest way to get feature validation is to stop guessing and start listening.\"",
+          "images": [],
+          "faqs": []
+        }
+      ]
+    },
+    {
+      "id": "5d1e8fc2-0714-4995-ac0c-e2f5ff36bf42",
+      "heading": "Ready to Stop the Bleeding?",
+      "content": "If you’re spending more than 2 hours a week managing feedback in spreadsheets, you are already losing money.\n\nDon’t let your next roadmap decision be a guess.\n\nGet started with MonkFeed for free and turn your feedback chaos into your competitive advantage.",
+      "images": [],
+      "faqs": []
     }
   ],
   "faqs": []
