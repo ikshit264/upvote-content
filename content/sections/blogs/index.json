@@ -1,8 +1,18 @@
 {
   "path": "blogs",
-  "generatedAt": "2026-08-07T22:13:50.596Z",
+  "generatedAt": "2026-08-08T07:38:43.878Z",
   "folders": [],
   "posts": [
+    {
+      "slug": "cms-integration-test-delete-me",
+      "title": "[TEST -- DELETE ME] github-cms integration test",
+      "description": "Disposable test post created to verify the github-cms write path against the real upvote-content repo. Safe to delete.",
+      "image": "",
+      "imageAlt": "",
+      "date": "2026-08-08",
+      "author": "Integration Test",
+      "category": "Test"
+    },
     {
       "slug": "the-hidden-cost-of-email-feedback",
       "title": "The Hidden Cost of Email Feedback: Why Spreadsheets Are Killing Your Product Velocity",
