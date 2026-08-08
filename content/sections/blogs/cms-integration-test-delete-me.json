@@ -6,7 +6,7 @@
   "date": "2026-08-08",
   "author": "Integration Test",
   "category": "Test",
-  "draft": false,
+  "draft": true,
   "metadata": {
     "title": "Test",
     "description": "Test",
