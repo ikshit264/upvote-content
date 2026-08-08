@@ -6,7 +6,7 @@
   "date": "2026-08-06",
   "author": "Hitender",
   "category": "Example-Category-05",
-  "draft": false,
+  "draft": true,
   "metadata": {
     "title": "The Hidden Cost of Email Feedback",
     "description": "You know the scenario. Your inbox is flooded. A customer emails a feature request.",
