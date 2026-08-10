@@ -1,6 +1,6 @@
 {
   "path": "blogs",
-  "generatedAt": "2026-08-10T21:45:06.263Z",
+  "generatedAt": "2026-08-10T22:01:36.415Z",
   "folders": [],
   "posts": [
     {
@@ -211,16 +211,6 @@
       "date": "2026-02-22",
       "author": "MonkFeed Team",
       "category": "Vs. The Giants"
-    },
-    {
-      "slug": "widget-verify-doc",
-      "title": "Widget Verify Doc",
-      "description": "End-to-end check of the gcms-docs embed widget",
-      "image": "",
-      "imageAlt": "",
-      "date": "",
-      "author": "",
-      "category": ""
     }
   ]
 }
