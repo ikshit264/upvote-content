@@ -1,0 +1,44 @@
+{
+  "type": "doc",
+  "title": "Widget Verify Doc",
+  "description": "End-to-end check of the gcms-docs embed widget",
+  "image": "",
+  "imageAlt": "",
+  "date": "",
+  "author": "",
+  "category": "",
+  "draft": false,
+  "metadata": {
+    "title": "",
+    "description": "",
+    "keywords": ""
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Getting Started",
+      "content": "Some **bold** and *italic* text with a table:\n\n| Col A | Col B |\n| --- | --- |\n| 1 | 2 |\n| 3 | 4 |\n",
+      "images": [],
+      "faqs": [
+        {
+          "question": "Is this a real FAQ?",
+          "answer": "Yes it is."
+        }
+      ],
+      "codeBlocks": [
+        {
+          "id": "c1",
+          "language": "typescript",
+          "code": "const x: number = 42;"
+        }
+      ],
+      "callouts": [
+        {
+          "id": "cal1",
+          "variant": "tip",
+          "content": "This is a live tip callout."
+        }
+      ]
+    }
+  ]
+}
