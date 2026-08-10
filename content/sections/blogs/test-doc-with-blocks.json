@@ -1,0 +1,39 @@
+{
+  "type": "doc",
+  "title": "Test Doc With Blocks",
+  "description": "Verifying table/code/callout round-trip",
+  "image": "",
+  "imageAlt": "",
+  "date": "",
+  "author": "",
+  "category": "",
+  "draft": true,
+  "metadata": {
+    "title": "",
+    "description": "",
+    "keywords": ""
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Intro",
+      "content": "Some **rich** text with a table:\n\n| A | B |\n| --- | --- |\n| 1 | 2 |\n",
+      "images": [],
+      "faqs": [],
+      "codeBlocks": [
+        {
+          "id": "c1",
+          "language": "typescript",
+          "code": "const x = 1;"
+        }
+      ],
+      "callouts": [
+        {
+          "id": "cal1",
+          "variant": "tip",
+          "content": "This is a tip"
+        }
+      ]
+    }
+  ]
+}
