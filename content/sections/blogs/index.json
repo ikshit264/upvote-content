@@ -1,6 +1,6 @@
 {
   "path": "blogs",
-  "generatedAt": "2026-08-10T22:01:36.415Z",
+  "generatedAt": "2026-08-11T01:50:49.195Z",
   "folders": [],
   "posts": [
     {
@@ -211,6 +211,15 @@
       "date": "2026-02-22",
       "author": "MonkFeed Team",
       "category": "Vs. The Giants"
+    },
+    {
+      "slug": "_meta",
+      "title": "",
+      "description": "",
+      "image": "",
+      "date": "",
+      "author": "",
+      "category": ""
     }
   ]
 }
